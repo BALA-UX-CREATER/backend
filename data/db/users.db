@@ -1,0 +1,5 @@
+{"userId":"ADMIN001","name":"Admin User","email":"admin@smartcity.gov","passwordHash":"$2a$10$Y3b51KxcDFGqTWLCO.iCkOQnnYr7gQ5/cWB8XThzVEp3ceBVf5ZC.","role":"admin","district":"Chennai","phone":"9876543210","createdAt":"2026-03-23T23:00:30.505Z","notifications":[],"_id":"DJJ6wHkxQ8ZzO60c"}
+{"userId":"CIT001","name":"Demo Citizen","email":"citizen@smartcity.gov","passwordHash":"$2a$10$vvSDjNFj3kZmtQHehRpAquwtGcIxguc5rhGZTYf1jYBr3It4fFw8W","role":"citizen","district":"Chennai","phone":"9876543211","createdAt":"2026-03-23T23:00:30.506Z","notifications":[],"_id":"kkxhTgQ9TwYDJkWH"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"userId","unique":true,"sparse":false}}
+{"userId":"CIT1774307064869","name":"durgaa","email":"dg123@gmail.com","passwordHash":"$2a$10$LFXS.WHiNVRMTTXM6rpk3e.Wf/YJJKQyXH4C1XL426jBPBbrkXq3i","role":"citizen","district":"Cuddalore","phone":"9876543210","createdAt":"2026-03-23T23:04:24.869Z","notifications":[],"_id":"QiJ0AuOzwfY4FAbl"}
